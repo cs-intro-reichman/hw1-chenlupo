@@ -9,6 +9,6 @@ public class PrintToFive {
             System.out.println(i);
             i++;
         }
-        System.out.println("done");
+        System.out.println("done!");
     }
  }
